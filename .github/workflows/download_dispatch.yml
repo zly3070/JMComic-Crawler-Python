@@ -5,7 +5,7 @@ on:
     inputs:
       JM_ALBUM_IDS:
         type: string
-        description: 350234
+        description: 本子id，多个空格分割
         required: false
 
       JM_PHOTO_IDS:
